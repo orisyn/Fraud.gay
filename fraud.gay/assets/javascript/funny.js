@@ -26,6 +26,6 @@ window.addEventListener("keydown", event => {
     body[0].innerHTML = "quit trying to get the source you fat fuck, discord.gg/desperate winning fuck nigga https://fraud.gay xeno owns you faggots";
   }
 });
-document.addEventListener("contextmenu", function (_0x7d44x3) {
-  _0x7d44x3.preventDefault();
+document.addEventListener("contextmenu", function (event) {
+  event.preventDefault();
 });
